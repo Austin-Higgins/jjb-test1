@@ -1,5 +1,5 @@
 - job:
-        name: test_job
+        name: github_jjb
         description: 'Automatically generated test'
         project-type: freestyle
         builders:
